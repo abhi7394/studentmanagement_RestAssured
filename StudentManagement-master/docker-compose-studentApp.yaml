@@ -1,0 +1,5 @@
+services:
+  studentApp:
+    image: abhi739/studentapp
+    ports:
+      - "8085:8080"

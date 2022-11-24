@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 13 20:14:29 CEST 2020","Wed May 13 20:14:30 CEST 2020","1231","","com.student.tests.CrudTest","","com.student.tests.CrudTest","getAllStudents","This test is to get all students list",""
